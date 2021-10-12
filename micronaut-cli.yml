@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.mherb.mnaut
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, data, data-jpa, flyway, h2, http-client, java, java-application, jdbc-hikari, junit, logback, lombok, maven, netty-server, readme, security-annotations, security-jwt, shade, yaml ]
